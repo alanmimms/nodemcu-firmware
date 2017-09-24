@@ -10,6 +10,7 @@
 #define U8G_FONT_TABLE                          \
     U8G_FONT_TABLE_ENTRY(font_6x10)             \
     U8G_FONT_TABLE_ENTRY(font_chikita)
+    U8G_FONT_TABLE_ENTRY(font_gdr14r)
 #undef U8G_FONT_TABLE_ENTRY
 //
 // ***************************************************************************
